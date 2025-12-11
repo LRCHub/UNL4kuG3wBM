@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ムーンソング",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-11T10:47:47.553949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムーンソング",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_ムーンソング_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ムーンソング (Premium V.I.P. Party 2017 live at Nippon Gaishi Hall)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_ムーンソング_(Premium_V.I.P._Party_2017_live_at_Nippon_Gaishi_Hall)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ムーンソング - Premium V.I.P. Party 2017 live at Nippon Gaishi Hall",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/03_ムーンソング_-_Premium_V.I.P._Party_2017_live_at_Nippon_Gaishi_Hall_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムーンソング",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_ムーンソング_[Alexandros].txt"
+    }
+  ]
+}
